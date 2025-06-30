@@ -13,7 +13,9 @@ in Python:
     
 2_ align & harmonize time domain across all data streams
 
-3_ combined data form? data that can be easily pulled and plotted, analyzed
+3_ process data streams
+
+4_ combined data form? data that can be easily pulled and plotted, analyzed
 
 
 
