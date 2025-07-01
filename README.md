@@ -5,8 +5,7 @@ https://github.com/emilygzh/Analysis-rcs-data/blob/2003568e722ff30a4274b62ac6381
 UCSF pipeline, processing all done in matlab
 
 
-in Python: 
-
+**RCS: **
 1_ data sources:
     a_ load data
     b_ find missing packets, chunk data (?)
@@ -15,33 +14,12 @@ in Python:
 
 3_ process data streams
 
-4_ combined data form? data that can be easily pulled and plotted, analyzed
+4_ combined data form to analyze, deidentified
 
-
-
-data sources: 
-|___device data
-|   |___in clinic
-|       |___accel data for activity classification
-|       |___controller
-|       |___time domain
-|       |___power
-|   |___at home
-|       |___raw accel
-|       |___raw FFT
-|       |___raw power
-|       |___raw time domain
-|       |___time sync
-|       |___stim log, event log, error log, diagnostics log, device settings, adaptive log
-|
-|___strive PD data
-|   |___med state (discrete)
-|   |___time since med (continuous)
-|   |___dyskinesia prediction
-|
-|___apple watch data
-|   |___accelerometer for tremor
-|    
-|___leap motion data (in clinic)
+# upcoming:
+**(pivot to at home)**
+- run RCS repo, deidentify
+- run explorer, deidentify
+- aggregate, select to align with other data
 
 
