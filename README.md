@@ -16,7 +16,7 @@ UCSF pipeline, processing all done in matlab
 
 4_ combined data form to analyze, deidentified
 
-# upcoming:
+# next:
 **(pivot to at home)**
 - run RCS repo, deidentify
 - run explorer, deidentify
